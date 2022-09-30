@@ -65,6 +65,12 @@ h1{
     width: 50%;
 }
 
+.sign-up-top-container{
+    background-color: #3882F6;
+    color: #e5e7eb;
+    border-radius: 10px;
+    padding: 10px;
+}
 img{
    margin: 50px; 
 }
@@ -134,4 +140,53 @@ h3{
     display: flex;
     justify-content: flex-end;
     margin-right: 400px;
+}
+
+.bottom-section{
+   height: 300px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.blue-container{
+    background-color: #3882F6;
+    width: 75%;
+    height: 40%;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.left{
+    width: 80%;
+    margin-left: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+ h4{
+    font-size: 24px;
+    color: #e5e7eb;
+}
+
+.last-p{
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.right{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.btn-last-div{
+    background-color: #3882F6;
+    color: #e5e7eb;
+    border: 3px solid white;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 20px;
 }
