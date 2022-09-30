@@ -74,3 +74,38 @@ img{
     color: #e5e7eb;
     margin-left: 95px;
 }
+
+h2{
+    font-size: 36px;
+     font-weight: bolder;
+     color:  #152937;
+     text-align: center;
+}
+
+.row-of-blue-boxes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 100%;
+    margin: 100px;
+    
+
+}
+
+.box-blue{
+    border: 3px solid #3882F6;
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+.first-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.p-second{
+    text-align: center;
+    font-size: 18px;
+}
