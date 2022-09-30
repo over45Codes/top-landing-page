@@ -109,3 +109,29 @@ h2{
     text-align: center;
     font-size: 18px;
 }
+
+.middle-section{
+    background-color:#e5e7eb;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+h3{
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    color:#1F2937;
+    text-align: center;
+}
+.p-middle{
+    font-size: 30px;
+    color: #152937;
+  
+}
+#p-middle{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 400px;
+}
