@@ -190,3 +190,9 @@ h3{
     padding: 10px;
     margin-right: 20px;
 }
+
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+}
