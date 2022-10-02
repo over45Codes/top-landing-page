@@ -94,15 +94,24 @@ h2{
     justify-content: space-between;
     max-width: 100%;
     margin: 100px;
+  
     
+  }
 
-}
-
-.box-blue{
+.box-blue-content{
     border: 3px solid #3882F6;
     width: 200px;
     height: 200px;
-    border-radius: 5px;
+    border-radius: 18px;
+        
+}
+
+.box-blue-content img {
+    width: 200px;
+    height: 200px;
+    object-fit: fill;
+    border-radius: 15px;
+    margin: 0px;
 }
 
 .first-section{
@@ -155,7 +164,7 @@ h3{
     height: 40%;
     display: flex;
     flex-direction: row;
-
+   
 }
 
 .left{
