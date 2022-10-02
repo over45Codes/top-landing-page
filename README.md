@@ -4,7 +4,7 @@ TOP Landing Page project built in HTML, and CSS using Flexbox
 
 Try it [here!](https://graciicodes.github.io/TOP-landing-page/)
 
-![alt text](https://github.com/graciicodes/To-Do-App/blob/master/images/Grace's%20Todo%20List%20pic.png)
+![alt text]()
 
 ## Summary
 
