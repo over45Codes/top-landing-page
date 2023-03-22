@@ -2,7 +2,7 @@
 
 TOP Landing Page project built in HTML, and CSS using Flexbox 
 
-Try it [here!](https://graciicodes.github.io/TOP-landing-page/)
+Try it [here!](https://over45Codes.github.io/TOP-landing-page/)
 
 ![alt text](https://github.com/graciicodes/TOP-landing-page/blob/main/images/TOP%20Landing%20Page.png)
 
